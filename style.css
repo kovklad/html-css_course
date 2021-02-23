@@ -1,0 +1,150 @@
+.container{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', 
+        sans-serif;
+}
+.menu{
+    background-color: #007765;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    font-size: 24px;
+    color: #fff;
+}
+.menu a{
+    text-decoration: none;
+    color: #fff;
+}
+.menu_cont{
+    max-width: 1110px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    height: 45px;
+}
+.logo1{
+    position: absolute;
+}
+.logo{
+    max-width: 200px;
+    padding: 20px 0px 0px 20px;
+}
+.topnav{
+    max-width: 450px;
+    padding: 29px 20px 26px 0px;
+}
+.picture1{
+    background: url(elements/image.png);
+    background-size: cover;
+    color: #fff;
+    font-size: 72px;
+    text-align: center;
+}
+.pic_cont_1{
+    padding: 225px 0px 160px 0px;
+}
+.problem{
+    padding: 55px;
+    background-color: #eee;
+}
+.problem p{
+    font-size: 32px;
+}
+.prob_cont{
+    margin: auto;
+    max-width: 1110px;
+}
+.problem h1{
+    font-size: 64px;
+    color: #007765;
+    text-align: center;
+}
+.picture2{
+    background: url(elements/image2.png);
+    background-size: cover;
+    font-size: 48px;
+    color: #fff;
+}
+.pic_cont_2{
+    padding: 128px;
+    max-width: 893px;
+    margin: auto;
+    text-align: center;
+}
+.intro{
+    margin: 55px;
+}
+.intro_cont{
+    margin: auto;
+    max-width: 1110px;
+    padding-bottom: 92px;
+}
+.intro_cont h1{
+    padding-top: 48px;
+    padding-bottom: 16px;
+    text-align: center;
+    font-size: 64px;
+    color: #007765;
+}
+.intro_cont img{
+    height: 115px;
+    width: 115px;
+    float: left;
+    padding-right: 48px;
+    padding-bottom: 35px;
+}
+.intro_cont p{
+    font-size: 32px;
+}
+.team {
+    background-color: #eee;
+}
+.team img{
+    height: 168px;
+    width: 168px;
+}
+.team p{
+    color: #007765;
+    font-size: 24px;
+    padding-top: -10px;
+}
+.team h1{
+    padding-top: 48px;
+    font-size: 64px;
+    color: #007765;
+    text-align: center;
+}
+.team span{
+    
+    font-style: italic;
+}
+.team_cont{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 55px;
+}
+.team_cont{
+    max-width: 1110px;
+    margin: auto;
+    text-align: center;
+}
+.team_cont div{
+    height: 283px;
+    width: 350px;
+}
+
+footer{
+    background-color: #333;
+}
+.foo{
+    padding-top: 48px;
+    padding-bottom: 54px;
+    text-align: center;
+    max-width: 540px;
+    color: #fff;
+    font-size: 18px;
+    margin: auto;
+}
