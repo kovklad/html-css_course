@@ -1,0 +1,27 @@
+.jumbotron h1{
+    font-size: 72px;
+    padding-left: 20px;
+}
+.jumbotron p{
+    max-width: 635px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+.cards{
+    margin: 45px;
+}
+.cards p{
+    font-size: 16px;
+}
+
+table{
+    margin: 0 auto;
+    margin-top: 32px;
+    margin-left: 45px;
+    
+}
+footer{
+    text-align: center;
+    background-color: #E5E5E5;
+    padding: 16px;
+}
