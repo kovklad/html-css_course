@@ -1,0 +1,84 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    background: #F2F2F2;
+}
+
+header{
+    box-shadow: 0 1px 16px 0 rgb(38,38,38,0.16); 
+    position: fixed;
+    width: -webkit-fill-available;
+    background: #fff;
+}
+.logo{
+    margin-top: 6px;
+}
+.head_fix{
+    padding-top: 19px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 86%;
+    margin: 0 auto;
+    
+}
+.sign{
+    display: flex;
+}
+.sign-in{
+width: 78px;
+height: 40px;
+font-size: 13px;
+font-weight: 500;
+text-align: center;
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+border-radius: 2px;
+margin: -4px 6px 15px 20px;
+}
+.sign-in div{
+    margin-top: 8px;   
+}
+.bascket{
+    margin: 4px 12px 5px 20px;
+}
+.btn-up{
+    width: 80px;
+    height: 80px;
+    background: #59BD5A;
+    border-radius: 2px;
+    text-align: center;
+    position: fixed;
+    right: 16px;
+    bottom: 24px;
+    border-radius: 2px;
+}
+.btn-up img{
+    padding-top: 25px;
+}
+.search div{
+    padding-top: 124px;
+    max-width: 947px;
+    margin: auto;
+    color: #626262;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;}
+.search hr{
+    background: #757575;
+    opacity: 0.3;
+    margin-top: 1px;
+}
+.restaurants{
+    max-width: 947px;
+    margin: auto;
+
+}
+.restaurants p{
+    padding-top: 35px;
+    font-size: 22px;
+}
+
+.cards{
+    display: flex;
+}
